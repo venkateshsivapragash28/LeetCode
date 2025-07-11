@@ -17,17 +17,20 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/venkatesh2288/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/venkatesh2288/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatesh2288/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
