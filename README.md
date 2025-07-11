@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
