@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/venkatesh2288/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
