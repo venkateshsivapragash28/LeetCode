@@ -24,6 +24,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/venkatesh2288/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,9 +105,11 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/venkatesh2288/LeetCode/tree/master/0605-can-place-flowers) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
