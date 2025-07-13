@@ -1,16 +1,18 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        count_list = []
+        max_length = 0
         for i in range(len(s)):
-            temp = []
-            for j in range(i, len(s)):
-                if s[j] not in temp:
-                    temp.append(s[j])
+            count = 1
+            max_length = max(max_length, count)
+            for j in range(i+1, len(s)):
+                if s[j] not in s[i:j]:
+                    count = count + 1
+                    max_length = max(max_length, count)
                 else:
-                    break  # break on duplicate
-            count_list.append(len(temp))  # always add current length
+                    max_length = max(max_length, count)
+                    break
+        return max_length
 
-        return max(count_list) if count_list else 0
 
 
                 
