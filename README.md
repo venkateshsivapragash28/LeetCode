@@ -43,6 +43,7 @@
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2580-circular-sentence](https://github.com/venkatesh2288/LeetCode/tree/master/2580-circular-sentence) |
 ## Sliding Window
 |  |
 | ------- |
