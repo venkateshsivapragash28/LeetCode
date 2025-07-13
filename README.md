@@ -42,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0605-can-place-flowers](https://github.com/venkatesh2288/LeetCode/tree/master/0605-can-place-flowers) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
