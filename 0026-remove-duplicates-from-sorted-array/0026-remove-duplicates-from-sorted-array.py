@@ -1,9 +1,9 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        i = 0
-        while i < len(nums)-1:
-            if nums[i] == nums[i+1]:
-                nums.pop(i+1)
-            else:
-                i = i+1
-        return len(nums)
+        unique = []
+        for i in nums:
+            if i not in unique:
+                unique.append(i)
+        for i in range(len(unique)):
+            nums[i] = unique[i]
+        return len(unique)
