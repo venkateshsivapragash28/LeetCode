@@ -18,6 +18,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/venkatesh2288/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/venkatesh2288/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -82,6 +83,7 @@
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
