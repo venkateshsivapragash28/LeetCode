@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
@@ -105,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
