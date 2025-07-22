@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/venkatesh2288/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
