@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
@@ -57,6 +58,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -89,6 +91,7 @@
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/venkatesh2288/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -131,6 +134,7 @@
 | ------- |
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatesh2288/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/venkatesh2288/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -177,6 +182,7 @@
 | [0088-merge-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
