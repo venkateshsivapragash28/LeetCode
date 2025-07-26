@@ -4,6 +4,6 @@ class Solution(object):
             if nums[i] == target:
                 return i
             elif nums[i] > target:
-                    return i
+                return i
         return len(nums)
                     
