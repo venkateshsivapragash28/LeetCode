@@ -86,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
+| [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
