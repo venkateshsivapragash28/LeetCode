@@ -66,6 +66,7 @@
 | [0073-set-matrix-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@
 | [0009-palindrome-number](https://github.com/venkatesh2288/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@
 | [0125-valid-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
