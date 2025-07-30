@@ -112,6 +112,7 @@
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
@@ -191,6 +192,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/venkatesh2288/LeetCode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
