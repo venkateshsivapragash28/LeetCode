@@ -10,15 +10,14 @@ class Solution(object):
             for j in range(i, len(s)):
                 index = ord(s[j]) - ord('a')
                 temp[index] = temp[index] + 1
-                maxx = max(temp)
-                minn = float('inf')
+
+                max_temp = max(temp)
+                min_temp = float('inf')
                 for x in temp:
                     if x!= 0:
-                        minn = min(minn, x)
-                total += (maxx - minn)
-
+                        min_temp = min(min_temp, x)
+                total = total + (max_temp - min_temp)
         return total
-
 
         # 28 - 07 - 2025 ------------------------------------------------
         # total = 0
