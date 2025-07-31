@@ -80,6 +80,7 @@
 | [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -102,6 +103,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -209,6 +211,7 @@
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
