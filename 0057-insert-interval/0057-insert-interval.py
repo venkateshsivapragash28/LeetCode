@@ -1,9 +1,8 @@
 class Solution(object):
     def insert(self, arr, new):
-        def get_start(arr):
-            return arr[0]
+
         arr = arr + [new]
-        arr.sort(key = get_start)
+        arr.sort()
 
         i = 0
         while i < len(arr)-1:
