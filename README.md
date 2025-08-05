@@ -71,6 +71,7 @@
 | [2756-buy-two-chocolates](https://github.com/venkatesh2288/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3429-special-array-i](https://github.com/venkatesh2288/LeetCode/tree/master/3429-special-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -327,4 +330,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
