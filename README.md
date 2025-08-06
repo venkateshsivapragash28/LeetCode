@@ -162,6 +162,7 @@
 | [0206-reverse-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/venkatesh2288/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
