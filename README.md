@@ -160,6 +160,7 @@
 | [0061-rotate-list](https://github.com/venkatesh2288/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -170,6 +171,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/venkatesh2288/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
@@ -346,4 +349,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
