@@ -107,6 +107,7 @@
 | [0014-longest-common-prefix](https://github.com/venkatesh2288/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/venkatesh2288/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/venkatesh2288/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/venkatesh2288/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0125-valid-palindrome) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/venkatesh2288/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
@@ -246,6 +248,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
