@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatesh2288/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/venkatesh2288/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -383,9 +384,14 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/venkatesh2288/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/venkatesh2288/LeetCode/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
