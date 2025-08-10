@@ -141,6 +141,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/venkatesh2288/LeetCode/tree/master/2580-circular-sentence) |
 | [3396-valid-word](https://github.com/venkatesh2288/LeetCode/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0735-asteroid-collision](https://github.com/venkatesh2288/LeetCode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/venkatesh2288/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
@@ -398,6 +400,7 @@
 | [0735-asteroid-collision](https://github.com/venkatesh2288/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
 |  |
 | ------- |
