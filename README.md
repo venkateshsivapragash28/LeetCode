@@ -128,6 +128,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/venkatesh2288/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
