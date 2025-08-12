@@ -137,6 +137,7 @@
 | [0520-detect-capital](https://github.com/venkatesh2288/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -233,6 +234,7 @@
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/venkatesh2288/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -289,6 +291,7 @@
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/venkatesh2288/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkatesh2288/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/venkatesh2288/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
@@ -411,6 +414,7 @@
 | [0682-baseball-game](https://github.com/venkatesh2288/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkatesh2288/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/venkatesh2288/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
