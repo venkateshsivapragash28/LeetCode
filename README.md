@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/venkatesh2288/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/venkatesh2288/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/venkatesh2288/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/venkatesh2288/LeetCode/tree/master/0056-merge-intervals) |
@@ -213,6 +214,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkatesh2288/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/venkatesh2288/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/venkatesh2288/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkatesh2288/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/venkatesh2288/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/venkatesh2288/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -398,6 +401,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkatesh2288/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -415,6 +419,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkatesh2288/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0503-next-greater-element-ii) |
