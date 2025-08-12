@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/venkatesh2288/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/venkatesh2288/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/venkatesh2288/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/venkatesh2288/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkatesh2288/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -402,6 +403,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/venkatesh2288/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkatesh2288/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/venkatesh2288/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/venkatesh2288/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0503-next-greater-element-ii) |
