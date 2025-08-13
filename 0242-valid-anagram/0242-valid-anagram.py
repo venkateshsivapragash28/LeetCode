@@ -1,19 +1,23 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        if len(s) != len(t):
-            return False
-        s1 = []
-        for i in s:
-            s1.append(i)
-        s2 = []
-        for i in t:
-            s2.append(i)
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
 
-        count = 0
-        for i in range(len(s2)):
-            if s2[i] in s1 :
-                count+=1
-                s1.remove(s2[i])
-        if len(s2) == count:
+        counter1 = {}
+        counter2 = {}
+
+        for i in s:
+            if i in counter1:
+                counter1[i] += 1
+            else:
+                counter1[i] = 1
+
+        for i in t:
+            if i in counter2:
+                counter2[i] += 1
+            else:
+                counter2[i] = 1
+
+
+        if counter1 == counter2:
             return True
-        return False
+        else:
+            return False
