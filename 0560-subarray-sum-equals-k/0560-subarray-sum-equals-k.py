@@ -1,5 +1,5 @@
 class Solution(object):
-    def subarraySum(self, nums, k):
+    def subarraySum(self, arr, k):
         # FIRST TRY ----------------------
         # count = 0
         # if arr is None:
@@ -31,12 +31,12 @@ class Solution(object):
         # count = 0
         # j = 0
         # summ = 0
-        # while j < len(nums):
-        #     summ += nums[i]
+        # while j < len(arr):
+        #     summ += arr[i]
         #     if summ == k:
         #         count += 1
         #     i += 1
-        #     if i == len(nums):
+        #     if i == len(arr):
         #         j += 1
         #         i = j
         #         summ = 0
@@ -44,14 +44,14 @@ class Solution(object):
 
         #4th try ----------------------------------------------------
 
-        # nums = [0] + nums
+        # arr = [0] + arr
         # summ = 0
         # count = 0
         # prefix = []
 
 
-        # for i in range(len(nums)):
-        #     summ = summ + nums[i]
+        # for i in range(len(arr)):
+        #     summ = summ + arr[i]
         #     prefix.append(summ)
 
         # count = 0
@@ -64,25 +64,42 @@ class Solution(object):
 
         #5th try 01 - 07 - 2025
 
-        nums = [0] + nums
+        # arr = [0] + arr
+        # summ = 0
+        # count = 0
+        # prefix = []
+
+        # for i in range(len(arr)):
+        #     summ = summ + arr[i]
+        #     prefix.append(summ)
+
+
+        # freq = {}
+
+        # for p in prefix:
+        #     if p - k in freq:
+        #         count += freq[p - k]
+
+        #     if p in freq:
+        #         freq[p] += 1
+        #     else:
+        #         freq[p] = 1
+
+        # return count
+
+        #6th try
+        arr = [0] + arr
+        prefix_sum = {}
         summ = 0
-        count = 0
-        prefix = []
+        count =  0
 
-        for i in range(len(nums)):
-            summ = summ + nums[i]
-            prefix.append(summ)
+        for i in arr:
+            summ = summ + i
 
-
-        freq = {}
-
-        for p in prefix:
-            if p - k in freq:
-                count += freq[p - k]
-
-            if p in freq:
-                freq[p] += 1
+            if summ - k in prefix_sum:
+                count += prefix_sum[summ - k]
+            if summ in prefix_sum:
+                prefix_sum[summ] += 1
             else:
-                freq[p] = 1
-
+                prefix_sum[summ] = 1
         return count
