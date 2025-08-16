@@ -67,6 +67,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/venkatesh2288/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/venkatesh2288/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/venkatesh2288/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -161,6 +162,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatesh2288/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -372,6 +375,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatesh2288/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
