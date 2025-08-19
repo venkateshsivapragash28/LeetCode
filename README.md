@@ -65,6 +65,7 @@
 | [0917-boats-to-save-people](https://github.com/venkatesh2288/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/venkatesh2288/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/venkatesh2288/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -112,6 +113,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/venkatesh2288/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/venkatesh2288/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -164,6 +166,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/venkatesh2288/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
@@ -386,6 +389,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatesh2288/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
