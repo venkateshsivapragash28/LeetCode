@@ -39,21 +39,41 @@ class Solution:
 
         # 20 - 08 - 2025
 
-        dia = 0
+        # dia = 0
 
-        def diameter(node):
-            nonlocal dia
+        # def diameter(node):
+        #     nonlocal dia
 
+        #     if not node:
+        #         return 0
+
+        #     else:
+        #         left_height = diameter(node.left)
+        #         right_height = diameter(node.right)
+
+        #         dia = max(dia, left_height + right_height)
+
+        #         return 1 + max(left_height, right_height)
+
+        # diameter(root)
+        # return dia
+
+        diameter = 0
+        def dia(node):
+
+            nonlocal diameter
             if not node:
                 return 0
 
             else:
-                left_height = diameter(node.left)
-                right_height = diameter(node.right)
+                left = dia(node.left)
+                right = dia(node.right)
+            
+            diameter = max(diameter, left + right)
 
-                dia = max(dia, left_height + right_height)
+            return 1 + max(left, right)
+        
+        dia(root)
+        return diameter
 
-                return 1 + max(left_height, right_height)
-
-        diameter(root)
-        return dia
+            
