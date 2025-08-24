@@ -4,15 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        counter = {} 
-        for i in nums:
-            if i in counter:
-                counter[i]+=1
-            else:
-                counter[i] = 1
         res = []
-        for i in set(nums):
-            if counter[i] == 2:
-                res.append(i)
-
+        for i in nums:
+            index = abs(i) - 1
+            if nums[index] < 0:
+                res.append(abs(i))
+            else:
+                nums[index] = -nums[index]
         return res
