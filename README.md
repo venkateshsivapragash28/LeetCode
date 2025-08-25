@@ -43,6 +43,7 @@
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/venkatesh2288/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
@@ -268,6 +269,7 @@
 | [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/venkatesh2288/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/venkatesh2288/LeetCode/tree/master/0455-assign-cookies) |
@@ -288,6 +290,7 @@
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/venkatesh2288/LeetCode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
@@ -308,6 +311,7 @@
 | [0162-find-peak-element](https://github.com/venkatesh2288/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
