@@ -110,6 +110,7 @@
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/venkatesh2288/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -146,6 +147,7 @@
 | [0179-largest-number](https://github.com/venkatesh2288/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/venkatesh2288/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/venkatesh2288/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/venkatesh2288/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/venkatesh2288/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
