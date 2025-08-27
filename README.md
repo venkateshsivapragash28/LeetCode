@@ -142,6 +142,7 @@
 | [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/venkatesh2288/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/venkatesh2288/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/venkatesh2288/LeetCode/tree/master/0179-largest-number) |
@@ -192,6 +193,7 @@
 | [0013-roman-to-integer](https://github.com/venkatesh2288/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/venkatesh2288/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/venkatesh2288/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/venkatesh2288/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
@@ -289,6 +291,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/venkatesh2288/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/venkatesh2288/LeetCode/tree/master/0735-asteroid-collision) |
