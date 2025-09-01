@@ -58,22 +58,35 @@ class Solution:
         # diameter(root)
         # return dia
 
-        diameter = 0
-        def dia(node):
+        # diameter = 0
+        # def dia(node):
 
-            nonlocal diameter
-            if not node:
-                return 0
+        #     nonlocal diameter
+        #     if not node:
+        #         return 0
 
-            else:
-                left = dia(node.left)
-                right = dia(node.right)
+        #     else:
+        #         left = dia(node.left)
+        #         right = dia(node.right)
             
-            diameter = max(diameter, left + right)
+        #     diameter = max(diameter, left + right)
 
-            return 1 + max(left, right)
+        #     return 1 + max(left, right)
         
-        dia(root)
-        return diameter
+        # dia(root)
+        # return diameter
 
             
+        dia = 0
+        def diameter(root):
+            nonlocal dia
+            if not root:
+                return 0
+            
+            left_height = diameter(root.left)
+            right_height = diameter(root.right)
+            dia = max(dia, left_height + right_height)
+            return 1 + max(left_height, right_height)
+
+        diameter(root)
+        return dia
