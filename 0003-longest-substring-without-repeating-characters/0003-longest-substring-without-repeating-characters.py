@@ -56,16 +56,16 @@ class Solution(object):
 # Revisit revisitted in 01 - 09 - 2025 ---------------------
         left = 0
         right = 0
-        dick = set()
+        dick = ''
         maxi = 0
         while right < len(s):
 
             if s[right] not in dick:
-                dick.add(s[right])
+                dick += s[right]
                 right+=1        
             elif s[right] in dick:
                 while s[right] in dick:
-                    dick.remove(s[left])
+                    dick = dick[1:]
                     left += 1
             maxi = max(maxi, right - left)
         
