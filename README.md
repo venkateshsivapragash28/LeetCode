@@ -544,6 +544,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
@@ -564,6 +565,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -586,6 +588,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
@@ -602,6 +605,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/venkatesh2288/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Rolling Hash
