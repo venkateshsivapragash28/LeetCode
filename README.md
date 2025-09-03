@@ -312,6 +312,7 @@
 | [0090-subsets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/venkatesh2288/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/venkatesh2288/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/venkatesh2288/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/venkatesh2288/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -335,6 +336,7 @@
 | [0162-find-peak-element](https://github.com/venkatesh2288/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkatesh2288/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/venkatesh2288/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -543,6 +545,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatesh2288/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/venkatesh2288/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0508-most-frequent-subtree-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -587,6 +590,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/venkatesh2288/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/venkatesh2288/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0508-most-frequent-subtree-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/venkatesh2288/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkatesh2288/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
