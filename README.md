@@ -220,6 +220,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/venkatesh2288/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/venkatesh2288/LeetCode/tree/master/3830-find-closest-person) |
 ## Linked List
 |  |
 | ------- |
