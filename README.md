@@ -559,6 +559,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
@@ -612,6 +613,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
@@ -649,4 +651,8 @@
 | [0077-combinations](https://github.com/venkatesh2288/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/venkatesh2288/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0090-subsets-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
