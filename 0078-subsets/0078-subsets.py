@@ -15,7 +15,7 @@ class Solution:
         # return arr
         #----------------------------- !!!!
 
-        # Using recursion
+        # Using recursion ------------------------------------ !!!! fuck youself behehe
         res = []
         n = len(nums)
         def f(index, li):
