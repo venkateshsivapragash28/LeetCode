@@ -1,19 +1,19 @@
-class Solution(object):
-    def countAndSay(self, n):
-        def f(n, num = '1'):
-            if n == 0:
-                return num
-            new = ''
+class Solution:
+    def countAndSay(self, n: int) -> str:
+        s = '1'
+        for x in range(n-1):
             count = 1
-            for i in range(len(num)-1):
-                if num[i] == num[i+1]:
-                    count += 1
-                else:
-                    temp = str(count) + num[i]
-                    new = new + temp
+            res = ''
+            for i in range(len(s)-1):
+                if s[i] != s[i+1]:
+                    res += str(count)
+                    res += str(s[i])
                     count = 1
-            temp = str(count) + num[-1]
-            new = new + temp
-            num = new
-            return f(n-1, num)
-        return f(n-1)
+                else:
+                    count += 1
+                
+            res += str(count)
+            res += str(s[-1])
+            s = res
+
+        return s
