@@ -88,6 +88,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatesh2288/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/venkatesh2288/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/venkatesh2288/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -183,6 +184,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/venkatesh2288/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/venkatesh2288/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -447,6 +449,7 @@
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/venkatesh2288/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -461,6 +464,7 @@
 | [0191-number-of-1-bits](https://github.com/venkatesh2288/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -508,6 +512,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -708,4 +713,5 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
