@@ -1,9 +1,5 @@
-class Solution(object):
-    def doesAliceWin(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def doesAliceWin(self, s: str) -> bool:
         dick = {
             'a' : 1,
             'e' : 1,
@@ -11,9 +7,8 @@ class Solution(object):
             'o' : 1,
             'u' : 1
         }
+        count = 0
         for i in s:
             if i in dick:
                 return True
         return False
-
-        
