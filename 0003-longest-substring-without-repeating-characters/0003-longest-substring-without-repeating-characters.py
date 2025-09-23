@@ -33,40 +33,39 @@ class Solution(object):
         #     max_count = max(max_count, count)
         # return max_count                
             
-# 3rd attempt optmized 13-08-2025 Passed
 
-        # count = 0
-        # max_count = 0
-        # seen = []
-        # i = 0
+#Revisit revisitted in 01 - 09 - 2025 ---------------------
+        # left = 0
+        # right = 0
+        # dick = ''
+        # maxi = 0
+        # while right < len(s):
 
-        # while i < len(s):
-        #     if s[i] not in seen:
-        #         count+=1
-        #         seen.append(s[i])
-        #         i+=1
-        #     else:
-        #         max_count = max(max_count, count)
-        #         count = 0
-        #         seen = []
-        # max_count = max(max_count, count)
-
-        # return max_count
-
-# Revisit revisitted in 01 - 09 - 2025 ---------------------
-        left = 0
-        right = 0
-        dick = ''
-        maxi = 0
-        while right < len(s):
-
-            if s[right] not in dick:
-                dick += s[right]
-                right+=1        
-            elif s[right] in dick:
-                while s[right] in dick:
-                    dick = dick[1:]
-                    left += 1
-            maxi = max(maxi, right - left)
+        #     if s[right] not in dick:
+        #         dick += s[right]
+        #         right+=1        
+        #     elif s[right] in dick:
+        #         while s[right] in dick:
+        #             dick = dick[1:]
+        #             left += 1
+        #     maxi = max(maxi, right - left)
         
+        # return maxi
+        dick = ''
+        count = 0 
+        maxi = 0
+        for i in s:
+            if i not in dick:
+                dick += i
+                count += 1
+            else:
+                while i in dick:
+                    dick = dick[1:]
+                    count -= 1
+                dick += i
+                count += 1
+            maxi = max(maxi, count)
         return maxi
+
+
+
