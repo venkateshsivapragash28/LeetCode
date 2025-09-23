@@ -175,6 +175,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/venkatesh2288/LeetCode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/venkatesh2288/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/venkatesh2288/LeetCode/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
@@ -226,6 +227,7 @@
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/venkatesh2288/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkatesh2288/LeetCode/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/venkatesh2288/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
