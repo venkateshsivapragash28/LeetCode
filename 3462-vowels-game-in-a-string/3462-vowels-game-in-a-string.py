@@ -7,7 +7,6 @@ class Solution:
             'o' : 1,
             'u' : 1
         }
-        count = 0
         for i in s:
             if i in dick:
                 return True
