@@ -1,9 +1,8 @@
 class Solution:
-    def findDuplicate(self, arr: List[int]) -> int:
-        for i in range(len(arr)):
-            index = abs(arr[i]) - 1
-            if arr[index] < 0:
-                return abs(arr[i])
+    def findDuplicate(self, nums: List[int]) -> int:
+        for i in range(len(nums)):
+            index = abs(nums[i])
+            if nums[index] < 0:
+                return index
             else:
-                arr[index] = -arr[index]
-            
+                nums[index] = nums[index] * -1
