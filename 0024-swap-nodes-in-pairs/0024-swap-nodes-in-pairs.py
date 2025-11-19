@@ -1,19 +1,24 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def swapPairs(self, A):
-        dummy = ListNode(0)
-        dummy.next = A
+class Solution:
+    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode()
+        dummy.next = head
+
         prev = dummy
-        while A and A.next:
-            first = A
-            second = A.next
-            prev.next = second
+        first = head
+
+        while first and first.next:
+
+            second = first.next
             first.next = second.next
             second.next = first
+            prev.next = second
+
             prev = first
-            A = first.next
+            first = prev.next
+
         return dummy.next
