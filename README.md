@@ -94,6 +94,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/venkatesh2288/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -143,6 +144,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh2288/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -392,6 +394,7 @@
 | [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/venkatesh2288/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/venkatesh2288/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -457,6 +460,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/venkatesh2288/LeetCode/tree/master/2756-buy-two-chocolates) |
