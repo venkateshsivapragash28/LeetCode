@@ -144,6 +144,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -190,6 +191,7 @@
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/venkatesh2288/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/venkatesh2288/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -345,6 +347,7 @@
 | [0268-missing-number](https://github.com/venkatesh2288/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkatesh2288/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/venkatesh2288/LeetCode/tree/master/0342-power-of-four) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## String Matching
 |  |
 | ------- |
@@ -488,6 +491,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
