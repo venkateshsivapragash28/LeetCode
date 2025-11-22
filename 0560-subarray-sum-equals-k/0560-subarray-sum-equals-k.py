@@ -1,5 +1,5 @@
 class Solution(object):
-    def subarraySum(self, arr, k):
+    def subarraySum(self, nums, k):
         # FIRST TRY ----------------------
         # count = 0
         # if arr is None:
@@ -88,18 +88,47 @@ class Solution(object):
         # return count
 
         #6th try
-        arr = [0] + arr
-        prefix_sum = {}
+        # arr = [0] + arr
+        # prefix_sum = {}
+        # summ = 0
+        # count =  0
+
+        # for i in arr:
+        #     summ = summ + i
+
+        #     if summ - k in prefix_sum:
+        #         count += prefix_sum[summ - k]
+        #     if summ in prefix_sum:
+        #         prefix_sum[summ] += 1
+        #     else:
+        #         prefix_sum[summ] = 1
+        # return count
+
+
+
+
+
+
+
+
+
+
+
+
+
+        count = 0
+        prefix = {0:1}
         summ = 0
-        count =  0
+        for i in nums:
+            summ  = summ + i
+            if summ - k in prefix:
+                count += prefix[summ - k]
 
-        for i in arr:
-            summ = summ + i
+            if summ in prefix:
+                prefix[summ] += 1
 
-            if summ - k in prefix_sum:
-                count += prefix_sum[summ - k]
-            if summ in prefix_sum:
-                prefix_sum[summ] += 1
             else:
-                prefix_sum[summ] = 1
+                prefix[summ] = 1
+
+
         return count
