@@ -192,6 +192,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/venkatesh2288/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/venkatesh2288/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/venkatesh2288/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/venkatesh2288/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/venkatesh2288/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -245,6 +246,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatesh2288/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/venkatesh2288/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/venkatesh2288/LeetCode/tree/master/1448-maximum-69-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/venkatesh2288/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2032-largest-odd-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
