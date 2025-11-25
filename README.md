@@ -145,6 +145,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/venkatesh2288/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/venkatesh2288/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/venkatesh2288/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -194,6 +195,7 @@
 | [0504-base-7](https://github.com/venkatesh2288/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/venkatesh2288/LeetCode/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/venkatesh2288/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
