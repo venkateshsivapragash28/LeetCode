@@ -1,17 +1,18 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         
-        q = {}
-        seen = {}
-        for index, value in enumerate(s):
-            if value in q:
-                seen[value] = 1
+        dict = {}
+
+        for i in s:
+            if i in dict:
+                dict[i] += 1
             else:
-                q[value] = 1
+                dict[i] = 1
+
 
 
         for index, value in enumerate(s):
-            if value not in seen:
+            if dict[value] == 1:
                 return index
-
+        
         return -1
