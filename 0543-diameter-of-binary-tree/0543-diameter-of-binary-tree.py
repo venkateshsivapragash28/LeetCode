@@ -78,15 +78,19 @@ class Solution:
 
             
         dia = 0
+
         def diameter(root):
             nonlocal dia
             if not root:
                 return 0
-            
-            left_height = diameter(root.left)
-            right_height = diameter(root.right)
-            dia = max(dia, left_height + right_height)
-            return 1 + max(left_height, right_height)
+
+            left = diameter(root.left)
+            right = diameter(root.right)
+
+            dia = max(dia, left + right)
+
+            return 1 + max(left, right)
 
         diameter(root)
         return dia
+
