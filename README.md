@@ -82,6 +82,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/venkatesh2288/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/venkatesh2288/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -230,6 +231,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/venkatesh2288/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/venkatesh2288/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -398,6 +400,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venkatesh2288/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/venkatesh2288/LeetCode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -515,6 +518,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatesh2288/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/venkatesh2288/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
