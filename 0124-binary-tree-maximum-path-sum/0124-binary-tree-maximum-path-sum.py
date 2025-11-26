@@ -42,19 +42,19 @@ class Solution:
         #Second try 04 - 09 - 2025
         if not root:
             return 0
-        maximum = float('-inf')
-        def f(root):
-            nonlocal maximum
-
+        maxi = float('-inf')
+        def maxpath(root):
+            nonlocal maxi
             if not root:
                 return 0
-            
-            left = max(f(root.left), 0)
-            right = max(f(root.right), 0)
 
-            maximum = max(maximum, left + right + root.val)
+            left = max(0,maxpath(root.left))
+            right = max(0,maxpath(root.right))
 
-            return root.val + max(left, right)
+            maxi = max(maxi, left + right + root.val)
 
-        f(root)
-        return maximum
+            return max(left, right) + root.val
+
+        maxpath(root)
+
+        return maxi
