@@ -51,21 +51,49 @@ class Solution(object):
         #     maxi = max(maxi, right - left)
         
         # return maxi
-        dick = ''
-        count = 0 
+        # dick = ''
+        # count = 0 
+        # maxi = 0
+        # for i in s:
+        #     if i not in dick:
+        #         dick += i
+        #         count += 1
+        #     else:
+        #         while i in dick:
+        #             dick = dick[1:]
+        #             count -= 1
+        #         dick += i
+        #         count += 1
+        #     maxi = max(maxi, count)
+        # return maxi
+
+
         maxi = 0
+        seen = ''
+        count = 0
         for i in s:
-            if i not in dick:
-                dick += i
+            if i not in seen:
+                seen += i
                 count += 1
             else:
-                while i in dick:
-                    dick = dick[1:]
+                while i in seen:
+                    seen = seen[1:]
                     count -= 1
-                dick += i
+                seen += i
                 count += 1
             maxi = max(maxi, count)
+            
         return maxi
+
+
+
+
+
+
+
+
+
+
 
 
 
