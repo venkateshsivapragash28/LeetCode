@@ -1,21 +1,13 @@
-class Solution(object):
-    def isPalindrome(self, x):
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
         if x < 0:
             return False
-        
-
-        digit = 0
-        rev = 0 
         original = x
-
+        res = 0
         while x:
-            digit = x%10
-            rev = rev*10 + digit
+            rem = x % 10
+            res *= 10
+            res += rem
+            
             x = x//10
-
-
-        if rev == original:    
-            return True
-        else:
-            return False
-                
+        return res == original
