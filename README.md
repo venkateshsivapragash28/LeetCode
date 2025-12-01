@@ -278,6 +278,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/venkatesh2288/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2032-largest-odd-number-in-string](https://github.com/venkatesh2288/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/venkatesh2288/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/venkatesh2288/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venkatesh2288/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -544,6 +545,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2485-find-the-pivot-integer](https://github.com/venkatesh2288/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
