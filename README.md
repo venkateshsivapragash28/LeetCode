@@ -99,6 +99,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/venkatesh2288/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/venkatesh2288/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkatesh2288/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/venkatesh2288/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/venkatesh2288/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -620,6 +621,7 @@
 | [0983-validate-stack-sequences](https://github.com/venkatesh2288/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/venkatesh2288/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkatesh2288/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
@@ -639,6 +641,7 @@
 | [0739-daily-temperatures](https://github.com/venkatesh2288/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/venkatesh2288/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkatesh2288/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
