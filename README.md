@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatesh2288/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/venkatesh2288/LeetCode/tree/master/0011-container-with-most-water) |
@@ -122,8 +122,8 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/venkatesh2288/LeetCode/tree/master/0013-roman-to-integer) |
@@ -179,8 +179,8 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/venkatesh2288/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/venkatesh2288/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/venkatesh2288/LeetCode/tree/master/0006-zigzag-conversion) |
@@ -236,8 +236,8 @@
 | [3462-vowels-game-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/venkatesh2288/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkatesh2288/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -252,8 +252,8 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/venkatesh2288/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/venkatesh2288/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/venkatesh2288/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/venkatesh2288/LeetCode/tree/master/0009-palindrome-number) |
@@ -289,8 +289,8 @@
 | [3462-vowels-game-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/venkatesh2288/LeetCode/tree/master/3830-find-closest-person) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/venkatesh2288/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/venkatesh2288/LeetCode/tree/master/0021-merge-two-sorted-lists) |
@@ -320,8 +320,8 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh2288/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/venkatesh2288/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/venkatesh2288/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/venkatesh2288/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -335,8 +335,8 @@
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkatesh2288/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/venkatesh2288/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/venkatesh2288/LeetCode/tree/master/0015-3sum) |
@@ -379,8 +379,8 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/venkatesh2288/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0090-subsets-ii) |
@@ -394,14 +394,14 @@
 | [0645-set-mismatch](https://github.com/venkatesh2288/LeetCode/tree/master/0645-set-mismatch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/venkatesh2288/LeetCode/tree/master/0812-rotate-string) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatesh2288/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkatesh2288/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -423,8 +423,8 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/venkatesh2288/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkatesh2288/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/venkatesh2288/LeetCode/tree/master/0053-maximum-subarray) |
@@ -436,8 +436,8 @@
 | [0943-sum-of-subarray-minimums](https://github.com/venkatesh2288/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/venkatesh2288/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/venkatesh2288/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
@@ -454,8 +454,8 @@
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/venkatesh2288/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/venkatesh2288/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -469,8 +469,8 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/venkatesh2288/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/venkatesh2288/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/venkatesh2288/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/venkatesh2288/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -488,8 +488,8 @@
 | [2756-buy-two-chocolates](https://github.com/venkatesh2288/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/venkatesh2288/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/venkatesh2288/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/venkatesh2288/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/venkatesh2288/LeetCode/tree/master/0049-group-anagrams) |
@@ -526,8 +526,8 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/venkatesh2288/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2756-buy-two-chocolates](https://github.com/venkatesh2288/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkatesh2288/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/venkatesh2288/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/venkatesh2288/LeetCode/tree/master/0053-maximum-subarray) |
@@ -538,8 +538,8 @@
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/venkatesh2288/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -551,41 +551,41 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/venkatesh2288/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2485-find-the-pivot-integer](https://github.com/venkatesh2288/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/venkatesh2288/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/venkatesh2288/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/venkatesh2288/LeetCode/tree/master/1013-fibonacci-number) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/venkatesh2288/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/venkatesh2288/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0258-add-digits) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/venkatesh2288/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/venkatesh2288/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/venkatesh2288/LeetCode/tree/master/0164-maximum-gap) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/venkatesh2288/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -593,16 +593,16 @@
 | [0692-top-k-frequent-words](https://github.com/venkatesh2288/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkatesh2288/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -629,13 +629,13 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/venkatesh2288/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/venkatesh2288/LeetCode/tree/master/0148-sort-list) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/venkatesh2288/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venkatesh2288/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/venkatesh2288/LeetCode/tree/master/0402-remove-k-digits) |
@@ -647,8 +647,8 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkatesh2288/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0100-same-tree) |
@@ -682,8 +682,8 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0100-same-tree) |
@@ -710,8 +710,8 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0100-same-tree) |
@@ -745,8 +745,8 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/venkatesh2288/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -766,50 +766,50 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/venkatesh2288/LeetCode/tree/master/1731-even-odd-tree) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/venkatesh2288/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venkatesh2288/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/venkatesh2288/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/venkatesh2288/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/venkatesh2288/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/0090-subsets-ii) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/venkatesh2288/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/venkatesh2288/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/venkatesh2288/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venkatesh2288/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/venkatesh2288/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venkatesh2288/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
