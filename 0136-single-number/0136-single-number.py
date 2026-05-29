@@ -1,6 +1,16 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        res = 0
+        
+        counter = {}
+        ones = []
+        twos = []
+
         for i in nums:
-            res ^= i
-        return res
+            if i in counter:
+                counter[i] += 1
+            else:
+                counter[i] = 1
+        
+        for key, value in counter.items():
+            if value == 1:
+                return key
