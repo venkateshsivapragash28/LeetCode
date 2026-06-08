@@ -107,6 +107,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/venkatesh2288/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/venkatesh2288/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/venkatesh2288/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkateshsivapragash28/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2163-kth-distinct-string-in-an-array](https://github.com/venkatesh2288/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/venkatesh2288/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/venkatesh2288/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -373,6 +374,7 @@
 | [0917-boats-to-save-people](https://github.com/venkatesh2288/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh2288/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkateshsivapragash28/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/venkatesh2288/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -448,6 +450,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/venkatesh2288/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/venkatesh2288/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/venkatesh2288/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/venkateshsivapragash28/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/venkatesh2288/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/venkatesh2288/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
