@@ -1,16 +1,12 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         
-        counter = {}
-        ones = []
-        twos = []
+        seen = set()
 
         for i in nums:
-            if i in counter:
-                counter[i] += 1
+            if i in seen:
+                seen.remove(i)
             else:
-                counter[i] = 1
-        
-        for key, value in counter.items():
-            if value == 1:
-                return key
+                seen.add(i)
+
+        return seen.pop()
