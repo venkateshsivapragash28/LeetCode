@@ -1,10 +1,9 @@
-class Solution(object):
-    def strStr(self, haystack, needle):
-        n = len(needle)
-        i = 0
-        while i <= len(haystack) - n:
-            if haystack[i:i+n] == needle:
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        length = len(needle)
+
+
+        for i in range(len(haystack)-length + 1):
+            if haystack[i: i+length] == needle:
                 return i
-            else:
-                i = i+1
         return -1
