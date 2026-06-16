@@ -235,6 +235,7 @@
 | [3396-valid-word](https://github.com/venkatesh2288/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/venkatesh2288/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/venkateshsivapragash28/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/venkatesh2288/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -455,6 +456,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkatesh2288/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/venkatesh2288/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/venkatesh2288/LeetCode/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/venkateshsivapragash28/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/venkatesh2288/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 | Problem Name | Difficulty |
