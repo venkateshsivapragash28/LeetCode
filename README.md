@@ -313,6 +313,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/venkateshsivapragash28/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/venkatesh2288/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/venkatesh2288/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -371,6 +372,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/venkatesh2288/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-shortest-distance-to-a-character](https://github.com/venkatesh2288/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/venkatesh2288/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/venkateshsivapragash28/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/venkatesh2288/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/venkatesh2288/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/venkatesh2288/LeetCode/tree/master/0941-sort-array-by-parity) |
